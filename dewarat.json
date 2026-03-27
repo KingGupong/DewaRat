@@ -1,1 +1,12 @@
-
+{
+  "devices": [],
+  "pairingCodes": {
+    "6AUZOLE9": {
+      "used": false,
+      "createdAt": "2026-03-27T04:18:51.185Z",
+      "createdBy": "admin"
+    }
+  },
+  "chats": {},
+  "locks": {}
+}

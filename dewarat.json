@@ -31,6 +31,32 @@
         "method": "IP Address (ISP)"
       },
       "pairingCode": "QSOLLS3F"
+    },
+    {
+      "id": "DEV_B3CTH26V",
+      "name": "Android Device",
+      "status": "online",
+      "firstSeen": "2026-03-27T04:59:52.180Z",
+      "lastSeen": "2026-03-27T04:59:52.180Z",
+      "deviceInfo": {
+        "deviceName": "Android Device",
+        "model": "Linux armv8l",
+        "manufacturer": "Google Inc.",
+        "osVersion": "Linux; Android 13; SM-A032F Build/TP1A.220624.014; wv",
+        "batteryLevel": 77,
+        "networkType": "4g",
+        "ipAddress": "182.3.73.127",
+        "ram": "4",
+        "timestamp": "2026-03-27T04:59:52.162Z"
+      },
+      "location": {
+        "latitude": -1.616,
+        "longitude": 103.5709,
+        "accuracy": 1000,
+        "timestamp": 1774587588060,
+        "address": "Jambi City, Jambi, Indonesia"
+      },
+      "pairingCode": "13DLF7L6"
     }
   ],
   "pairingCodes": {
@@ -42,8 +68,9 @@
       "usedAt": "2026-03-27T04:36:20.347Z"
     },
     "13DLF7L6": {
-      "used": false,
-      "createdAt": "2026-03-27T04:59:09.305Z"
+      "used": true,
+      "createdAt": "2026-03-27T04:59:09.305Z",
+      "usedBy": "DEV_B3CTH26V"
     }
   },
   "chats": {

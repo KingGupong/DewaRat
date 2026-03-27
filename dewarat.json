@@ -45,5 +45,14 @@
       "usedBy": "DEV_XLCDT5W6",
       "usedAt": "2026-03-27T03:51:58.869Z"
     }
+  },
+  "chats": {
+    "DEV_XLCDT5W6": [
+      {
+        "from": "admin",
+        "text": "P",
+        "time": "2026-03-27T04:00:19.179Z"
+      }
+    ]
   }
 }

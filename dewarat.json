@@ -1,5 +1,27 @@
 {
-  "devices": [],
+  "devices": [
+    {
+      "id": "DEV_XLCDT5W6",
+      "name": "Android Device",
+      "status": "online",
+      "firstSeen": "2026-03-27T03:51:58.868Z",
+      "lastSeen": "2026-03-27T03:51:58.869Z",
+      "deviceInfo": {
+        "deviceName": "Android Device",
+        "model": "Linux armv8l",
+        "manufacturer": "Google Inc.",
+        "osVersion": "Linux; Android 13; SM-A032F Build/TP1A.220624.014; wv",
+        "batteryLevel": 78,
+        "networkType": "4g",
+        "ipAddress": "182.3.73.127",
+        "storageTotal": "128",
+        "storageFree": "64",
+        "ram": "6",
+        "timestamp": "2026-03-27T03:51:58.853Z"
+      },
+      "pairingCode": "1OZ35LEH"
+    }
+  ],
   "pairingCodes": {
     "ZMTXGRUN": {
       "used": false,
@@ -17,9 +39,11 @@
       "expiresAt": null
     },
     "1OZ35LEH": {
-      "used": false,
+      "used": true,
       "createdAt": "2026-03-27T03:51:44.383Z",
-      "expiresAt": null
+      "expiresAt": null,
+      "usedBy": "DEV_XLCDT5W6",
+      "usedAt": "2026-03-27T03:51:58.869Z"
     }
   }
 }

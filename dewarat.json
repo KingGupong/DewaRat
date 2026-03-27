@@ -57,6 +57,32 @@
         "address": "Jambi City, Jambi, Indonesia"
       },
       "pairingCode": "13DLF7L6"
+    },
+    {
+      "id": "DEV_UTI18RCG",
+      "name": "Android Device",
+      "status": "online",
+      "firstSeen": "2026-03-27T05:02:48.676Z",
+      "lastSeen": "2026-03-27T05:02:48.677Z",
+      "deviceInfo": {
+        "deviceName": "Android Device",
+        "model": "Linux armv81",
+        "manufacturer": "Google Inc.",
+        "osVersion": "Linux; Android 10; K",
+        "batteryLevel": 78,
+        "networkType": "3g",
+        "ipAddress": "182.3.73.127",
+        "ram": "4",
+        "timestamp": "2026-03-27T05:02:48.362Z"
+      },
+      "location": {
+        "latitude": -6.2,
+        "longitude": 106.816666,
+        "accuracy": 5000,
+        "timestamp": 1774587765276,
+        "address": "Jakarta, Indonesia"
+      },
+      "pairingCode": "56IK6QHI"
     }
   ],
   "pairingCodes": {
@@ -73,8 +99,9 @@
       "usedBy": "DEV_B3CTH26V"
     },
     "56IK6QHI": {
-      "used": false,
-      "createdAt": "2026-03-27T05:02:06.358Z"
+      "used": true,
+      "createdAt": "2026-03-27T05:02:06.358Z",
+      "usedBy": "DEV_UTI18RCG"
     }
   },
   "chats": {

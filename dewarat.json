@@ -93,6 +93,12 @@
       "lockedAt": "2026-03-27T04:37:24.154Z",
       "password": "memek",
       "message": "Device Terkunci! Masukkan password untuk membuka"
+    },
+    "null": {
+      "locked": true,
+      "lockedAt": "2026-03-27T05:00:34.356Z",
+      "message": "YATIM",
+      "password": "123"
     }
   }
 }

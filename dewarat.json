@@ -1,5 +1,38 @@
 {
-  "devices": [],
+  "devices": [
+    {
+      "id": "DEV_UIMXOMMY",
+      "name": "Android Device",
+      "status": "online",
+      "firstSeen": "2026-03-27T04:36:20.346Z",
+      "lastSeen": "2026-03-27T04:36:20.347Z",
+      "deviceInfo": {
+        "deviceName": "Android Device",
+        "model": "Linux armv8l",
+        "manufacturer": "Google Inc.",
+        "osVersion": "Linux; Android 13; SM-A032F Build/TP1A.220624.014; wv",
+        "batteryLevel": 74,
+        "networkType": "4g",
+        "ipAddress": "182.3.73.127",
+        "storageTotal": "128",
+        "storageFree": "64",
+        "ram": "6",
+        "timestamp": "2026-03-27T04:36:20.329Z"
+      },
+      "location": {
+        "latitude": -1.616,
+        "longitude": 103.5709,
+        "accuracy": 1000,
+        "timestamp": 1774586175776,
+        "city": "Jambi City",
+        "region": "Jambi",
+        "country": "Indonesia",
+        "address": "Jambi City, Jambi, Indonesia",
+        "method": "IP Address (ISP)"
+      },
+      "pairingCode": "QSOLLS3F"
+    }
+  ],
   "pairingCodes": {
     "6AUZOLE9": {
       "used": false,
@@ -12,9 +45,11 @@
       "createdBy": "admin"
     },
     "QSOLLS3F": {
-      "used": false,
+      "used": true,
       "createdAt": "2026-03-27T04:36:00.586Z",
-      "createdBy": "admin"
+      "createdBy": "admin",
+      "usedBy": "DEV_UIMXOMMY",
+      "usedAt": "2026-03-27T04:36:20.347Z"
     }
   },
   "chats": {},

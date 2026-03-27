@@ -1,9 +1,37 @@
 {
-  "devices": [],
+  "devices": [
+    {
+      "id": "DEV_L08S3S9R",
+      "name": "Android Device",
+      "status": "online",
+      "firstSeen": "2026-03-27T06:29:39.021Z",
+      "lastSeen": "2026-03-27T06:29:39.022Z",
+      "deviceInfo": {
+        "deviceName": "Android Device",
+        "model": "Linux armv81",
+        "manufacturer": "Google Inc.",
+        "osVersion": "Linux; Android 10; K",
+        "batteryLevel": 90,
+        "networkType": "3g",
+        "ipAddress": "182.3.70.29",
+        "ram": "4",
+        "timestamp": "2026-03-27T06:29:38.591Z"
+      },
+      "location": {
+        "latitude": -6.2,
+        "longitude": 106.816666,
+        "accuracy": 5000,
+        "timestamp": 1774592977351,
+        "address": "Jakarta, Indonesia"
+      },
+      "pairingCode": "5JJBHGLU"
+    }
+  ],
   "pairingCodes": {
     "5JJBHGLU": {
-      "used": false,
-      "createdAt": "2026-03-27T06:28:46.662Z"
+      "used": true,
+      "createdAt": "2026-03-27T06:28:46.662Z",
+      "usedBy": "DEV_L08S3S9R"
     }
   },
   "locks": {}

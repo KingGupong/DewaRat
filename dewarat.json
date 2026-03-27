@@ -1,1 +1,10 @@
-
+{
+  "devices": [],
+  "pairingCodes": {
+    "5JJBHGLU": {
+      "used": false,
+      "createdAt": "2026-03-27T06:28:46.662Z"
+    }
+  },
+  "locks": {}
+}

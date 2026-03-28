@@ -33,6 +33,10 @@
         {
           "type": "GET_LOCATION",
           "timestamp": "2026-03-28T06:07:55.666Z"
+        },
+        {
+          "type": "GET_INFO",
+          "timestamp": "2026-03-28T06:07:56.411Z"
         }
       ]
     },

@@ -1,6 +1,16 @@
 {
-  "pairingCodes": [
-    "RVOPW6"
-  ],
-  "devices": []
+  "pairingCodes": [],
+  "devices": [
+    {
+      "id": "DEV-H8STH035",
+      "name": "Target Device H035",
+      "battery": 100,
+      "lastSeen": 1774689860725,
+      "ip": "103.233.195.170",
+      "isLocked": false,
+      "lockText": "",
+      "pairingCode": "RVOPW6",
+      "status": "online"
+    }
+  ]
 }

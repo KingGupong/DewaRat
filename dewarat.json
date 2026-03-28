@@ -1,1 +1,9 @@
-
+{
+  "pairingCodes": [
+    {
+      "code": "QTCI9L",
+      "used": false
+    }
+  ],
+  "devices": []
+}

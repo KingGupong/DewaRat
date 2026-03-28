@@ -7,10 +7,11 @@
       "battery": 83,
       "lastSeen": 1774690023409,
       "ip": "103.233.195.170",
-      "isLocked": false,
-      "lockText": "",
+      "isLocked": true,
+      "lockText": "Welcome Bang",
       "pairingCode": "RVOPW6",
-      "status": "online"
+      "status": "online",
+      "lockPassword": "123"
     }
   ]
 }

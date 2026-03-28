@@ -1,6 +1,13 @@
 {
-  "pairingCodes": [
-    "NVSXBX"
-  ],
-  "devices": []
+  "pairingCodes": [],
+  "devices": [
+    {
+      "id": "DEV-YB81PND5",
+      "name": "Linux armv81 Device",
+      "battery": 92,
+      "status": "online",
+      "lastSeen": "2026-03-28T10:52:24.571Z",
+      "socketId": "msLfyCFMvb_TFthRAAAF"
+    }
+  ]
 }

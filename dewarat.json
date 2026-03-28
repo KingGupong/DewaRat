@@ -1,5 +1,10 @@
 {
-  "pairingCodes": [],
+  "pairingCodes": [
+    {
+      "code": "J3OEKS",
+      "used": false
+    }
+  ],
   "devices": [
     {
       "id": "DEV-H8STH035",

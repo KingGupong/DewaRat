@@ -1,18 +1,1 @@
-{
-  "pairingCodes": [
-    {
-      "code": "QTCI9L",
-      "used": true,
-      "deviceId": "DEV-QASFW"
-    }
-  ],
-  "devices": [
-    {
-      "id": "DEV-QASFW",
-      "name": "Unknown Device",
-      "battery": 0,
-      "status": "online",
-      "lastSeen": 1774691858197
-    }
-  ]
-}
+

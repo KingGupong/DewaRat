@@ -24,7 +24,13 @@
         "timestamp": 1774593011397,
         "address": "Jakarta, Indonesia"
       },
-      "pairingCode": "5JJBHGLU"
+      "pairingCode": "5JJBHGLU",
+      "commands": [
+        {
+          "type": "GET_LOCATION",
+          "timestamp": "2026-03-28T06:07:52.974Z"
+        }
+      ]
     },
     {
       "id": "DEV_BTLAFABZ",

@@ -4,8 +4,8 @@
     {
       "id": "DEV-H8STH035",
       "name": "Target Device H035",
-      "battery": 96,
-      "lastSeen": 1774690414719,
+      "battery": 85,
+      "lastSeen": 1774690416379,
       "ip": "103.233.195.170",
       "isLocked": true,
       "lockText": "Welcome Bang",
